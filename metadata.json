@@ -1,0 +1,6 @@
+{
+  "name": "Autoserti",
+  "description": "Platform pembuatan sertifikat, syahadah, dan piagam massal dari file Excel, CSV, atau Google Sheets dengan editor slide dan ekspor PDF/PNG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
